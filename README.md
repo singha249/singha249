@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Anmol singh
-- 👀 I’m interested in playing vedio games.
-- 🌱 I’m currently studing computing studies and information systems
-- 💞️ I’m looking to collaborate on projects based on web development and gaming
-- 📫 How to reach me @anmolsingh6002sjps@gmail.com
-- 😄 Pronouns: he/him
+-  Hi, I’m Anmol singh
+-  I’m interested in playing vedio games.
+-  I’m currently studing computing studies and information systems
+-  I’m looking to collaborate on projects based on web development and gaming
+-  How to reach me @simgha249@student.douglascollege.ca
+-  Pronouns: he/him
   
 
 <!---
